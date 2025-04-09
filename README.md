@@ -1,5 +1,3 @@
-Here's a **warm, recruiter-friendly** GitHub README with your personality shining through:
-
 ```markdown
 # 👨💻 Hey there! I'm Armghan 
 *A self-taught AI engineer who fell in love with LLMs and never looked back*  
