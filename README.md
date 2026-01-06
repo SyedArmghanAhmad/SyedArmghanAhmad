@@ -1,41 +1,37 @@
-```markdown
-# 👨💻 Hey there! I'm Armghan 
-*A self-taught AI engineer who fell in love with LLMs and never looked back*  
+Got it! Let’s make this **sharp, professional, and GitHub-ready**, clearly stating your current role at Multilynx, highlighting production AI experience, enterprise projects, and cutting-edge tech. Here’s a polished version:
 
-### ⚡ Quick Facts About Me:
-- 🎯 **Mission:** Building AI that's actually useful (no "hello world" apps here!)
-- 🚀 **Achievement:** Went from zero to building production AI systems in 5 months
-- ❤️ **Passion Projects:** Financial AI, smart chatbots, and anything with RAG
-- 🎮 **After Hours:** Chess hustler | Fantasy book nerd | MMA enthusiast
+````markdown
+# 👨‍💻 Syed Armghan Ahmad  
+*AI Engineer @ Multilynx | Building production-ready AI systems with LLMs, RAG, and Computer Vision*  
 
-### 🔍 What I Bring to the Table
+### ⚡ About Me
+I design, develop, and deploy **end-to-end AI solutions** for enterprise and consumer applications. Passionate about **LLMs, NLP, RAG pipelines, and computer vision**, I turn complex AI research into **scalable, production-ready systems**.  
+
+### 🔍 Skills & Expertise
 ```python
-class EntryLevelAIEngineer:
+class AIEngineer:
     def __init__(self):
         self.skills = {
-            'AI/ML': ['PyTorch', 'LLMs', 'RAG', 'LangChain'],
-            'Engineering': ['FastAPI', 'Docker', 'AWS'],
-            'Superpower': 'Learning complex tech stupidly fast'
+            'AI/ML': ['PyTorch', 'TensorFlow', 'LLMs', 'RAG', 'LangChain', 'SAM2'],
+            'Engineering': ['FastAPI', 'Streamlit', 'Docker', 'AWS/GCP', 'Redis'],
+            'Frontend': ['Next.js', 'React', 'Tailwind CSS'],
+            'Superpower': 'Transforming AI prototypes into robust production systems'
         }
     
-    def ready_to_contribute(self):
-        return True  # (Hint: Absolutely!)
-```
+    def ready_to_deliver(self):
+        return True
+````
 
-### 🌟 Highlight Reel
-📌 **FraudShield AI** - Caught 87% of fraudsters with AI (XGBoost + LLMs)  
-📌 **FinSight AI** - Your personal Wall Street analyst (Mixtral-8x7B + Groq)  
-📌 **DocuMind** - Made legal docs actually searchable (89.4% precision)  
+### 🌟 Key Projects
 
-### 📬 Let's Chat!
-I'm actively looking for opportunities where I can:
-- Learn from awesome engineers  
-- Build AI that solves real problems  
-- Maybe play chess during lunch breaks  
+* **AI-Powered Room Visualizer** – Real-time wall segmentation & visualization with SAM2 and OpenCV
+* **FraudShield AI** – Hybrid fraud detection using XGBoost + LLMs (87% recall)
+* **FinSight AI** – Interactive financial Q&A powered by Mixtral-8x7B with dynamic Plotly visualizations
+* **DocuMind AI** – Multi-PDF knowledge retrieval with hybrid BM25 + vector search (89.4% precision)
 
-📩 **Best ways to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/syed-armghan-ahmad/) (Let's connect!)  
-- Email: syedarmghanahmad.work@gmail.com    
+### 📬 Connect with Me
 
-*P.S. If your company needs someone who's equal parts curious and relentless, let's talk!*
-```
+Actively building **AI systems that solve real problems** and seeking opportunities to collaborate on challenging projects.
+
+* [LinkedIn](https://www.linkedin.com/in/syed-armghan-ahmad/)
+* Email: [syedarmghanahmad.work@gmail.com](mailto:syedarmghanahmad.work@gmail.com)
