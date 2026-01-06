@@ -1,6 +1,4 @@
-Got it! Let’s make this **sharp, professional, and GitHub-ready**, clearly stating your current role at Multilynx, highlighting production AI experience, enterprise projects, and cutting-edge tech. Here’s a polished version:
 
-````markdown
 # 👨‍💻 Syed Armghan Ahmad  
 *AI Engineer @ Multilynx | Building production-ready AI systems with LLMs, RAG, and Computer Vision*  
 
